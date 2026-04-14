@@ -45,6 +45,22 @@ assets/Character/10002/Portrait/0.png
 MetaMystia 项目不对这些资源授予任何再分发或二次创作授权。
 
 
+其中，上述 `assets/Character/9001/Portrait/` 下的如下文件：
+
+```
+assets/Character/9001/Portrait/5.png
+assets/Character/9001/Portrait/6.png
+assets/Character/9001/Portrait/7.png
+assets/Character/9001/Portrait/8.png
+assets/Character/9001/Portrait/9.png
+assets/Character/9001/Portrait/10.png
+assets/Character/9001/Portrait/11.png
+assets/Character/9001/Portrait/12.png
+```
+
+为基于 **《东方夜雀食堂》二色幽紫蝶** 原始资源修改的衍生创作，其版权状态较为复杂，**并非 MetaMystia 项目的独立原创资源**，亦不适用于下文的 CC 许可。
+
+
 ## 三、MetaMystia 项目原创资源许可
 
 除第二节列出的内容，其余由 **MetaMystia 项目组原创** 的资源均采用：
